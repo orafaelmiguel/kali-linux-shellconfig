@@ -15,11 +15,13 @@ O script configura dois adaptadores de rede:
 # Como executar
 
 Para rodar, os scripts precisam de permissão de root.
+
 Caso apresente algum erro, tente tornar os scripts executáveis antes de qualquer coisa:
 ```
 chmod +x ssh_config.sh
 ```
 No directory dos scripts.
+
 Depois execute como root:
 ```
 sudo ./ssh_config.sh
