@@ -1,7 +1,9 @@
 # Kali Linux Scripts
 
 Shell scripts para automação relacionada à configuração do Kali Linux, com o intuito de automatizar configs como ativar SSH no boot e isolar redes através de adaptadores de rede.
+
 Opção através da CLI caso deseje permitir conexões remotas via SSH (porta 22).
+
 Exibição do status SSH.
 
 Caso permita conexões remotas, o script irá iniciar o serviço SSH e configurará um firewall (UFW) para permitir tráfego na porta 22.
